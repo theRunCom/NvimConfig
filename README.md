@@ -4,7 +4,7 @@
 
 My Personal Neovim Configuration 🛠️
 
-I. Introduction 🆕
+## I. Introduction 🆕
 
 Traditionally, Vim has been perceived as having a steep learning curve. Configuring Neovim from scratch is also extremely challenging, requiring considerable effort and patience.
 
@@ -18,7 +18,7 @@ Official manual: [🚀 Getting Started | LazyVim](https://www.lazyvim.org/)
 
 Author — [folke (Folke Lemaitre) · GitHub](https://github.com/folke)
 
-II. Features 🎉
+## II. Features 🎉
 
 1. **High Customizability**: Lazyvim offers a wide range of configuration options, allowing users to customize according to their needs. Users can easily change themes, keybindings, and more.
 
