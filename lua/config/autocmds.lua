@@ -1,3 +1,5 @@
+---@diagnostic disable: undefined-global
+
 -- Disable the concealing in some file formats
 vim.api.nvim_create_autocmd("FileType", {
   pattern = { "markdown" },
